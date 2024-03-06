@@ -1,6 +1,4 @@
 # Calcule a soma de dois números
-def soma(x,y):
-    print(x + y)
-
-if __name__ == '__main__':
-    soma(10,20)
+primeiro_numero = int(input("Digite o primeiro número: "))
+segundo_numero = int(input("Digite o segundo número: "))
+print("A soma é:", primeiro_numero + segundo_numero)
