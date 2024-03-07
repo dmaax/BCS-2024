@@ -1,4 +1,4 @@
-# Calcular a gorjta de N%
+# Calcular a gorjeta de N%
 
 total_conta = 232.50
 
