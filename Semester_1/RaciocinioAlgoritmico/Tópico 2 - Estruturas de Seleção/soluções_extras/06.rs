@@ -3,6 +3,8 @@
 use std::io;
 
 fn main() {
+    println!("Digite um ano para verificar se é bissexto: ");
+
     let mut input = String::new();
     io::stdin()
         .read_line(&mut input)
